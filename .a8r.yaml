@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: adsfadsf
+  cluster_info:
+    cluster_id: "1231241234"
+    cluster_name: Cluster name
