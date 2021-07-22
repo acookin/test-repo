@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: blah
+  cluster_info:
+    cluster_id: "123"
+    cluster_name: hi
