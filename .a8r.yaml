@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: beepboop
+  cluster_info:
+    cluster_id: 768c3954-c2ba-5260-9ef0-cf6ed4a9ac42
+    cluster_name: Cluster name
